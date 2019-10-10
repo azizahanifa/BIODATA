@@ -1,0 +1,54 @@
+ <html>
+<head>
+<title>Biodata</title>
+</head>
+<body>
+<form action="#" style="width: 700px"class="posisi";>
+<fieldset class="h"/>
+<table style="width: 1000px;">
+<body style="background-color:pink"> </body>
+
+<tr>
+<td rowspan="10" width="100px">
+<img src="ziza.JPEG" width="150px" height="200px" border="10">
+</td>
+</tr>
+<center>
+<font size="40px">
+<b>BIODATA</b>
+</font>
+</center>
+<tr>
+<td><b>NAMA</b></td>
+<td>:   Aziza Hanifatur Rahma</td>
+</tr>
+<tr>
+<td><b>NIM</b></td>
+<td>:   01716147162</td>
+</tr>
+<tr>
+<td><b>TTL</b></td>
+<td>:   Kampar, 12 Januari 1999</td>
+</tr>
+<tr>
+<td><b>ALAMAT</b></td>
+<td>:   Pekanbaru, Riau</td>
+</tr>
+<tr>
+<td><b>JENIS KELAMIN</b></td>
+<td>:   Perempuan</td>
+</tr>
+<tr>
+<td><b>AGAMA</b></td>
+<td>:   Islam</td>
+</tr>
+<tr>
+<td><b>RIWAYAT PENDIDIKAN</b></td>
+<td>:   SMK Al-Mahrusiyah Kediri</td>
+</tr>
+<tr>
+<td><b>KESAN SEBAGAI MAHASISWA</b></td>
+<td>:   Banyak hal yang didapat, mulai bersosialisasi dengan banyak orang dan menambah banyak pengetahuan</td>
+</tr>
+</body>
+</html>
